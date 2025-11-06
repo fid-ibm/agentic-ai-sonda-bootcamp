@@ -47,9 +47,9 @@ Ahora puedes empezar a ver una versión muy básica de AskSonda. Aún no hemos a
 ### Añadir una base de conocimiento
 Una base de conocimientos es una base de datos en lenguaje natural (codificada mediante vectores semánticos) que proporciona información adicional a un agente, a la que este puede acceder y buscar cuando sea necesario. Añadamos algunos conocimientos a AskSonda:
 
-7. Descargar todos los archivos de conocimiento desde <a href="https://ibm.box.com/s/6tp60d39z76bt0ms5je2q41katl4loo8" target="_blank">esta carpeta box</a>.
+1. Descargar todos los archivos de conocimiento desde <a href="https://ibm.box.com/s/hbm0jdyjgzkb8luw0erfoakdj0jv5r8f" target="_blank">esta carpeta box</a>.
 
-8. Desplácese hacia abajo, pasando `Agent Style`, hasta la sección `Knowledge`. Seleccione `Choose Knowledge`.
+2. Desplácese hacia abajo, pasando `Agent Style`, hasta la sección `Knowledge`. Seleccione `Choose Knowledge`.
 
 ![ALT TEXT](./screenshots/choose-knowledge.png)
 
